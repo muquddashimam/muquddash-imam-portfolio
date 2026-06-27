@@ -5,7 +5,10 @@
 
 Welcome to my personal portfolio repository.
 
-This portfolio showcases my projects, technical skills, certifications, and achievements in Data Analytics and Business Intelligence.
+Aspiring Data Analyst with hands-on experience in data analysis, dashboard creation, and data visualization through
+internships and academic projects. Skilled in Python (Pandas, NumPy), SQL/MySQL, Power BI. Strong ability to clean,
+analyze, and interpret data to generate actionable insights. Seeking an entry-level Data Analyst role to contribute
+analytical and problem-solving skills in a data-driven environment
 
 ---
 
@@ -52,17 +55,12 @@ I am a B.Tech graduate passionate about transforming raw data into meaningful bu
 - Customer Segmentation
 - Business Insights
 
-## 🏏 Cricket Data Analytics
-- Web Scraping
-- Power BI Dashboard
-- Player Performance Analysis
+##  Fake News Detector | Machine Learning Web Application 
+- Developed a machine learning-based web application to classify news articles as Real or Fake using NLP techniques.
+- Trained and integrated a Scikit-learn classification model with Flask/Django backend for real-time predictions
+- Designed an interactive frontend using HTML, CSS, and JavaScript for user input and prediction display.
+- Utilized Git and GitHub for version control and collaborative development.
 
-## 🎬 Netflix Data Analysis
-- Data Cleaning
-- Visualization
-- Trend Analysis
-
----
 
 # 🎓 Education
 
@@ -98,5 +96,3 @@ https://github.com/muquddashimam
 ---
 
 # ⭐ Thanks for visiting my portfolio!
-
-If you like my work, don't forget to ⭐ Star my repositories.
